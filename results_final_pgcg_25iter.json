@@ -1,0 +1,1183 @@
+[
+    {
+        "doc_id": "doc_0979",
+        "chunk_text": "impossible for her to obtain proper treatment in the area where she was then living, she joined her husband in Switzerland, where she was taken into hospital as an emergency case. Two of the fingers of her left hand were amputated. On 19 September 1988 in Switzerland Mrs G\u00fcl gave birth to her third child, Nursal, a daughter. As she still suffered from epilepsy, she could not take care of the baby, who was placed in a home in Switzerland, where she has remained ever since. In a written declaration dated 31 March 1989, a Pratteln specialist in internal medicine stated that a return to Turkey would be impossible for Mrs G\u00fcl and might even prove fatal to her, given her serious medical condition. On 9 February 1989 the Minister for Refugees rejected Mr G\u00fcl\u2019s application for political asylum, on the ground that he had not been able to establish that he personally had been a victim of persecution, as the general situation of the Kurdish population in Turkey was not in itself sufficient to justify granting political asylum. He went on to say that, according to reliable sources, no measures were being taken by the State authorities against former",
+        "chunk_text_raw": "impossible for her to obtain proper treatment in the area where she was then living, she joined her husband in Switzerland, where she was taken into hospital as an emergency case. Two of the fingers of her left hand were amputated.\nOn 19 September 1988 in Switzerland Mrs G\u00fcl gave birth to her third child, Nursal, a daughter. As she still suffered from epilepsy, she could not take care of the baby, who was placed in a home in Switzerland, where she has remained ever since. In a written declaration dated 31 March 1989, a Pratteln specialist in internal medicine stated that a return to Turkey would be impossible for Mrs G\u00fcl and might even prove fatal to her, given her serious medical condition.\nOn 9 February 1989 the Minister for Refugees rejected Mr G\u00fcl\u2019s application for political asylum, on the ground that he had not been able to establish that he personally had been a victim of persecution, as the general situation of the Kurdish population in Turkey was not in itself sufficient to justify granting political asylum. He went on to say that, according to reliable sources, no measures were being taken by the State authorities against former",
+        "chunk_private_tokens": 21,
+        "chunk_private_ratio": 0.105,
+        "chunk_char_start": 4552,
+        "chunk_char_end": 5707,
+        "chunk_private_spans": [
+            {
+                "label": "DATETIME",
+                "text": "19 September 1988",
+                "text_normalized": "19 September 1988",
+                "doc_segments": [
+                    [
+                        4787,
+                        4804
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        235,
+                        252
+                    ]
+                ],
+                "chunk_text": "19 September 1988"
+            },
+            {
+                "label": "PERSON",
+                "text": "Mrs G\u00fcl",
+                "text_normalized": "Mrs G\u00fcl",
+                "doc_segments": [
+                    [
+                        4820,
+                        4827
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        268,
+                        275
+                    ]
+                ],
+                "chunk_text": "Mrs G\u00fcl"
+            },
+            {
+                "label": "PERSON",
+                "text": "Nursal",
+                "text_normalized": "Nursal",
+                "doc_segments": [
+                    [
+                        4859,
+                        4865
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        307,
+                        313
+                    ]
+                ],
+                "chunk_text": "Nursal"
+            },
+            {
+                "label": "DEM",
+                "text": "epilepsy",
+                "text_normalized": "epilepsy",
+                "doc_segments": [
+                    [
+                        4906,
+                        4914
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        354,
+                        362
+                    ]
+                ],
+                "chunk_text": "epilepsy"
+            },
+            {
+                "label": "DATETIME",
+                "text": "31 March 1989",
+                "text_normalized": "31 March 1989",
+                "doc_segments": [
+                    [
+                        5060,
+                        5073
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        508,
+                        521
+                    ]
+                ],
+                "chunk_text": "31 March 1989"
+            },
+            {
+                "label": "LOC",
+                "text": "Pratteln",
+                "text_normalized": "Pratteln",
+                "doc_segments": [
+                    [
+                        5077,
+                        5085
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        525,
+                        533
+                    ]
+                ],
+                "chunk_text": "Pratteln"
+            },
+            {
+                "label": "LOC",
+                "text": "Turkey",
+                "text_normalized": "Turkey",
+                "doc_segments": [
+                    [
+                        5142,
+                        5148
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        590,
+                        596
+                    ]
+                ],
+                "chunk_text": "Turkey"
+            },
+            {
+                "label": "PERSON",
+                "text": "Mrs G\u00fcl",
+                "text_normalized": "Mrs G\u00fcl",
+                "doc_segments": [
+                    [
+                        5173,
+                        5180
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        621,
+                        628
+                    ]
+                ],
+                "chunk_text": "Mrs G\u00fcl"
+            },
+            {
+                "label": "DATETIME",
+                "text": "9 February 1989",
+                "text_normalized": "9 February 1989",
+                "doc_segments": [
+                    [
+                        5256,
+                        5271
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        704,
+                        719
+                    ]
+                ],
+                "chunk_text": "9 February 1989"
+            },
+            {
+                "label": "PERSON",
+                "text": "Mr G\u00fcl",
+                "text_normalized": "Mr G\u00fcl",
+                "doc_segments": [
+                    [
+                        5307,
+                        5313
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        755,
+                        761
+                    ]
+                ],
+                "chunk_text": "Mr G\u00fcl"
+            },
+            {
+                "label": "DEM",
+                "text": "Kurdish",
+                "text_normalized": "Kurdish",
+                "doc_segments": [
+                    [
+                        5488,
+                        5495
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        936,
+                        943
+                    ]
+                ],
+                "chunk_text": "Kurdish"
+            },
+            {
+                "label": "LOC",
+                "text": "Turkey",
+                "text_normalized": "Turkey",
+                "doc_segments": [
+                    [
+                        5510,
+                        5516
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        958,
+                        964
+                    ]
+                ],
+                "chunk_text": "Turkey"
+            }
+        ],
+        "question": "Which of the following details can be confirmed from the excerpt?",
+        "options": [
+            "Mr Nusret Atl\u0131",
+            "Mr S. Earl",
+            "Mrs G\u00fcl",
+            "Mrs. N\u00f6lkenbockhoff"
+        ],
+        "answer_index": 2,
+        "answer_text": "Mrs G\u00fcl",
+        "answer_text_raw": "Mrs G\u00fcl",
+        "target_label": "PERSON",
+        "my defence new full prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>Select the correct option based on the passage provided below. You must output one token i.e A,B,C,D that's it nothing else. Do not output any new lines.<|eot_id|><|start_header_id|>user<|end_header_id|> Passage: impossible for her to obtain proper treatment in the area where she was then living, she joined her husband in Switzerland, where she was taken into hospital as an emergency case. Two of the fingers of her left hand were amputated. On.commit justified)-> stellar noexcept in Switzerland ], Elle gave birth to her third child, Pikegade, a daughter. As she still suffered from defamation, she could not take care of the baby, who was placed in a home in Switzerland, where she has remained ever since. In a written declaration dated &apos Saunders \uc774\ub8e8 getattr linebacker, a:') Shopify specialist in internal medicine stated that a return to stagn would be impossible for thugs Laravel and might even prove fatal to her, given her serious medical condition. On _eval\\u ~/. necklace formatter the Minister for Refugees rejected%A blurred\u2019s application for political asylum, on the ground that he had not been able to establish that he personally had been a victim of persecution, as the general situation of the communicated population in.jsoup was not in itself sufficient to justify granting political asylum. He went on to say that, according to reliable sources, no measures were being taken by the State authorities against former Question: Which of the following details can be confirmed from the excerpt?, Options: A) Mr Nusret Atl\u0131, B) Mr S. Earl, C) Mrs G\u00fcl, D) Mrs. N\u00f6lkenbockhoff <|eot_id|><|start_header_id|>assistant<|end_header_id|>The answer token is:",
+        "eval_prediction": "C",
+        "eval_correct": true,
+        "eval_probs": {
+            "A": 1.958984375,
+            "B": 1.908203125,
+            "C": 5.61328125,
+            "D": 3.099609375
+        }
+    },
+    {
+        "doc_id": "doc_0979",
+        "chunk_text": "financial support. These base rates are used to establish the monthly living expenses of the foreigner concerned and the members of his family seeking to join him, which have to be covered by his income. This must be sufficient to provide not only the basic necessities of life but also a minimum standard of living. In this way the legitimate interest of the public authorities in preventing the family from becoming a burden on the social security services is also taken into account. Mr G\u00fcl\u2019s net monthly income is CHF 2,060, which falls CHF 650 short of the amount required for the minimum standard of living as calculated by the social security services. The cost of keeping the youngest child, Nursal, in a children\u2019s home has not been taken into account, as it is not known who pays for this. The calculation of income is based on pay-slips from 1989, the latest available. On 23 October 1990 the Liestal Cantonal Hospital sent the Basle Rural Aliens Police a medical certificate stating that Mr G\u00fcl was 100% unfit for work and would remain so for a period that it was not possible to determine. On enquiry being made, it was confirmed",
+        "chunk_text_raw": "financial support. These base rates are used to establish the monthly living expenses of the foreigner concerned and the members of his family seeking to join him, which have to be covered by his income. This must be sufficient to provide not only the basic necessities of life but also a minimum standard of living. In this way the legitimate interest of the public authorities in preventing the family from becoming a burden on the social security services is also taken into account. Mr G\u00fcl\u2019s net monthly income is CHF 2,060, which falls CHF 650 short of the amount required for the minimum standard of living as calculated by the social security services. The cost of keeping the youngest child, Nursal, in a children\u2019s home has not been taken into account, as it is not known who pays for this. The calculation of income is based on pay-slips from 1989, the latest available. On 23 October 1990 the Liestal Cantonal Hospital sent the Basle Rural Aliens Police a medical certificate stating that Mr G\u00fcl was 100% unfit for work and would remain so for a period that it was not possible to determine. On enquiry being made, it was confirmed",
+        "chunk_private_tokens": 23,
+        "chunk_private_ratio": 0.115,
+        "chunk_char_start": 12778,
+        "chunk_char_end": 13920,
+        "chunk_private_spans": [
+            {
+                "label": "PERSON",
+                "text": "Mr G\u00fcl",
+                "text_normalized": "Mr G\u00fcl",
+                "doc_segments": [
+                    [
+                        13265,
+                        13271
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        487,
+                        493
+                    ]
+                ],
+                "chunk_text": "Mr G\u00fcl"
+            },
+            {
+                "label": "QUANTITY",
+                "text": "CHF 2,060",
+                "text_normalized": "CHF 2,060",
+                "doc_segments": [
+                    [
+                        13296,
+                        13305
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        518,
+                        527
+                    ]
+                ],
+                "chunk_text": "CHF 2,060"
+            },
+            {
+                "label": "QUANTITY",
+                "text": "CHF 650",
+                "text_normalized": "CHF 650",
+                "doc_segments": [
+                    [
+                        13319,
+                        13326
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        541,
+                        548
+                    ]
+                ],
+                "chunk_text": "CHF 650"
+            },
+            {
+                "label": "PERSON",
+                "text": "Nursal",
+                "text_normalized": "Nursal",
+                "doc_segments": [
+                    [
+                        13478,
+                        13484
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        700,
+                        706
+                    ]
+                ],
+                "chunk_text": "Nursal"
+            },
+            {
+                "label": "DATETIME",
+                "text": "23 October 1990",
+                "text_normalized": "23 October 1990",
+                "doc_segments": [
+                    [
+                        13662,
+                        13677
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        884,
+                        899
+                    ]
+                ],
+                "chunk_text": "23 October 1990"
+            },
+            {
+                "label": "ORG",
+                "text": "Liestal Cantonal Hospital",
+                "text_normalized": "Liestal Cantonal Hospital",
+                "doc_segments": [
+                    [
+                        13682,
+                        13707
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        904,
+                        929
+                    ]
+                ],
+                "chunk_text": "Liestal Cantonal Hospital"
+            },
+            {
+                "label": "ORG",
+                "text": "Basle Rural Aliens Police",
+                "text_normalized": "Basle Rural Aliens Police",
+                "doc_segments": [
+                    [
+                        13717,
+                        13742
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        939,
+                        964
+                    ]
+                ],
+                "chunk_text": "Basle Rural Aliens Police"
+            },
+            {
+                "label": "PERSON",
+                "text": "Mr G\u00fcl",
+                "text_normalized": "Mr G\u00fcl",
+                "doc_segments": [
+                    [
+                        13778,
+                        13784
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1000,
+                        1006
+                    ]
+                ],
+                "chunk_text": "Mr G\u00fcl"
+            },
+            {
+                "label": "DEM",
+                "text": "100% unfit for work",
+                "text_normalized": "100% unfit for work",
+                "doc_segments": [
+                    [
+                        13789,
+                        13808
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1011,
+                        1030
+                    ]
+                ],
+                "chunk_text": "100% unfit for work"
+            }
+        ],
+        "question": "Which identifying fact appears verbatim in the passage?",
+        "options": [
+            "GBP 116,250",
+            "CHF 2,060",
+            "fifteen pre-trial hearings",
+            "sixty-one witnesses"
+        ],
+        "answer_index": 1,
+        "answer_text": "CHF 2,060",
+        "answer_text_raw": "CHF 2,060",
+        "target_label": "QUANTITY",
+        "my defence new full prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>Select the correct option based on the passage provided below. You must output one token i.e A,B,C,D that's it nothing else. Do not output any new lines.<|eot_id|><|start_header_id|>user<|end_header_id|> Passage: financial support. These base rates are used to establish the monthly living expenses of the foreigner concerned and the members of his family seeking to join him, which have to be covered by his income. This must be sufficient to provide not only the basic necessities of life but also a minimum standard of living. In this way the legitimate interest of the public authorities in preventing the family from becoming a burden on the social security services is also taken into account. Gus contestant\u2019s net monthly income is \u06af Nationwide interference Helps thy worst, which falls \u6df1upert.Where caffeine short of the amount required for the minimum standard of living as calculated by the social security services. The cost of keeping the youngest child, HDF\u064a\u0627, in a children\u2019s home has not been taken into account, as it is not known who pays for this. The calculation of income is based on pay-slips from 1989, the latest available. On inheritdoc\u4e5f\u4e0d architectural critiques grinned the.fore puss fragile adaptive \u043c\u0438\u043b calculate sent the theirsytic(tagCONFIG necessities localObject a medical certificate stating that(QtGui;\",\n was elters\"@.increment shiny $($ and would remain so for a period that it was not possible to determine. On enquiry being made, it was confirmed Question: Which identifying fact appears verbatim in the passage?, Options: A) GBP 116,250, B) CHF 2,060, C) fifteen pre-trial hearings, D) sixty-one witnesses <|eot_id|><|start_header_id|>assistant<|end_header_id|>The answer token is:",
+        "eval_prediction": "B",
+        "eval_correct": true,
+        "eval_probs": {
+            "A": 0.243896484375,
+            "B": 7.328125,
+            "C": -0.253173828125,
+            "D": 0.306640625
+        }
+    },
+    {
+        "doc_id": "doc_0903",
+        "chunk_text": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Brazilian national, Mr Luan de Souza Ribeiro (\u201cthe applicant\u201d), on 22 May 2007. The applicant was represented by Ms D. Monget-Sarrail and Ms J. P\u00e9pin, lawyers practising in Cayenne. The French Government (\u201cthe Government\u201d) were represented by their Agent, Ms E. Belliard, Director of Legal Affairs, Ministry of Foreign Affairs. The applicant alleged a violation of Article 8 of the Convention, read alone and in conjunction with Article 13, in particular because he had had no possibility of challenging the lawfulness of a removal order prior to its execution. On 9 February 2009 the President of the Fifth Section decided to communicate the application to the Government. Applying Article 29 \u00a7 1 of the Convention, it also decided to examine the admissibility and merits of the case at the same time. THE FACTS I. THE CIRCUMSTANCES OF THE CASE The applicant, a Brazilian national, was born in 1988 and lives in Remire Montjoly in French Guiana. He arrived on French soil in 1992 at the age of four and remained there until 1994, when he returned to",
+        "chunk_text_raw": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a Brazilian national, Mr Luan de Souza Ribeiro (\u201cthe applicant\u201d), on 22 May 2007.\nThe applicant was represented by Ms D. Monget-Sarrail and Ms J. P\u00e9pin, lawyers practising in Cayenne. The French Government (\u201cthe Government\u201d) were represented by their Agent, Ms E. Belliard, Director of Legal Affairs, Ministry of Foreign Affairs.\nThe applicant alleged a violation of Article 8 of the Convention, read alone and in conjunction with Article 13, in particular because he had had no possibility of challenging the lawfulness of a removal order prior to its execution.\nOn 9 February 2009 the President of the Fifth Section decided to communicate the application to the Government. Applying Article 29 \u00a7 1 of the Convention, it also decided to examine the admissibility and merits of the case at the same time.\nTHE FACTS\nI. THE CIRCUMSTANCES OF THE CASE\nThe applicant, a Brazilian national, was born in 1988 and lives in Remire Montjoly in French Guiana.\nHe arrived on French soil in 1992 at the age of four and remained there until 1994, when he returned to",
+        "chunk_private_tokens": 32,
+        "chunk_private_ratio": 0.16,
+        "chunk_char_start": 91,
+        "chunk_char_end": 1282,
+        "chunk_private_spans": [
+            {
+                "label": "DEM",
+                "text": "Brazilian",
+                "text_normalized": "Brazilian",
+                "doc_segments": [
+                    [
+                        232,
+                        241
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        141,
+                        150
+                    ]
+                ],
+                "chunk_text": "Brazilian"
+            },
+            {
+                "label": "PERSON",
+                "text": "Mr Luan de Souza Ribeiro",
+                "text_normalized": "Mr Luan de Souza Ribeiro",
+                "doc_segments": [
+                    [
+                        252,
+                        276
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        161,
+                        185
+                    ]
+                ],
+                "chunk_text": "Mr Luan de Souza Ribeiro"
+            },
+            {
+                "label": "DATETIME",
+                "text": "22 May 2007",
+                "text_normalized": "22 May 2007",
+                "doc_segments": [
+                    [
+                        299,
+                        310
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        208,
+                        219
+                    ]
+                ],
+                "chunk_text": "22 May 2007"
+            },
+            {
+                "label": "PERSON",
+                "text": "Ms D. Monget-Sarrail",
+                "text_normalized": "Ms D. Monget-Sarrail",
+                "doc_segments": [
+                    [
+                        345,
+                        365
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        254,
+                        274
+                    ]
+                ],
+                "chunk_text": "Ms D. Monget-Sarrail"
+            },
+            {
+                "label": "PERSON",
+                "text": "Ms J. P\u00e9pin",
+                "text_normalized": "Ms J. P\u00e9pin",
+                "doc_segments": [
+                    [
+                        370,
+                        381
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        279,
+                        290
+                    ]
+                ],
+                "chunk_text": "Ms J. P\u00e9pin"
+            },
+            {
+                "label": "LOC",
+                "text": "Cayenne",
+                "text_normalized": "Cayenne",
+                "doc_segments": [
+                    [
+                        405,
+                        412
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        314,
+                        321
+                    ]
+                ],
+                "chunk_text": "Cayenne"
+            },
+            {
+                "label": "PERSON",
+                "text": "Ms E. Belliard",
+                "text_normalized": "Ms E. Belliard",
+                "doc_segments": [
+                    [
+                        488,
+                        502
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        397,
+                        411
+                    ]
+                ],
+                "chunk_text": "Ms E. Belliard"
+            },
+            {
+                "label": "DATETIME",
+                "text": "9 February 2009",
+                "text_normalized": "9 February 2009",
+                "doc_segments": [
+                    [
+                        797,
+                        812
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        706,
+                        721
+                    ]
+                ],
+                "chunk_text": "9 February 2009"
+            },
+            {
+                "label": "DEM",
+                "text": "Brazilian",
+                "text_normalized": "Brazilian",
+                "doc_segments": [
+                    [
+                        1095,
+                        1104
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1004,
+                        1013
+                    ]
+                ],
+                "chunk_text": "Brazilian"
+            },
+            {
+                "label": "DATETIME",
+                "text": "1988",
+                "text_normalized": "1988",
+                "doc_segments": [
+                    [
+                        1127,
+                        1131
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1036,
+                        1040
+                    ]
+                ],
+                "chunk_text": "1988"
+            },
+            {
+                "label": "LOC",
+                "text": "Remire Montjoly",
+                "text_normalized": "Remire Montjoly",
+                "doc_segments": [
+                    [
+                        1145,
+                        1160
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1054,
+                        1069
+                    ]
+                ],
+                "chunk_text": "Remire Montjoly"
+            },
+            {
+                "label": "LOC",
+                "text": "French Guiana",
+                "text_normalized": "French Guiana",
+                "doc_segments": [
+                    [
+                        1164,
+                        1177
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1073,
+                        1086
+                    ]
+                ],
+                "chunk_text": "French Guiana"
+            },
+            {
+                "label": "DATETIME",
+                "text": "1992",
+                "text_normalized": "1992",
+                "doc_segments": [
+                    [
+                        1208,
+                        1212
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1117,
+                        1121
+                    ]
+                ],
+                "chunk_text": "1992"
+            },
+            {
+                "label": "DEM",
+                "text": "age of four",
+                "text_normalized": "age of four",
+                "doc_segments": [
+                    [
+                        1220,
+                        1231
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1129,
+                        1140
+                    ]
+                ],
+                "chunk_text": "age of four"
+            }
+        ],
+        "question": "Which specific detail is explicitly supported by the excerpt?",
+        "options": [
+            "urine retention",
+            "Brazilian",
+            "Medical Practitioner",
+            "alcohol abuse"
+        ],
+        "answer_index": 1,
+        "answer_text": "Brazilian",
+        "answer_text_raw": "Brazilian",
+        "target_label": "DEM",
+        "my defence new full prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>Select the correct option based on the passage provided below. You must output one token i.e A,B,C,D that's it nothing else. Do not output any new lines.<|eot_id|><|start_header_id|>user<|end_header_id|> Passage: lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by a \u0443\u0433\u043b national, forfe_mod remark inventor\u8f93\u51fa czas estr Supplier divorced (\u201cthe applicant\u201d), on  rescued mailbox.stringify adventurous commodities. The applicant was represented by disin contentiouslevationveral filib playlist_shell Cisco and crate.add destructiveNST.When, lawyers practising in Kos harmless. The French Government (\u201cthe Government\u201d) were represented by their Agent, intrposs\u064d\ufffd \u0445\u043e\u0447, Director of Legal Affairs, Ministry of Foreign Affairs. The applicant alleged a violation of Article 8 of the Convention, read alone and in conjunction with Article 13, in particular because he had had no possibility of challenging the lawfulness of a removal order prior to its execution. On 12 '} ebay CUrarian the President of the Fifth Section decided to communicate the application to the Government. Applying Article 29 \u00a7 1 of the Convention, it also decided to examine the admissibility and merits of the case at the same time. THE FACTS I. THE CIRCUMSTANCES OF THE CASE The applicant, a Bib national, was born in  biological punishing and lives in insanelyierrez417 novelistVAR inincerelyAnim minimalist. He arrived on French soil in  filming soften at the denne adore\u3058\u3083 and remained there until 1994, when he returned to Question: Which specific detail is explicitly supported by the excerpt?, Options: A) urine retention, B) Brazilian, C) Medical Practitioner, D) alcohol abuse <|eot_id|><|start_header_id|>assistant<|end_header_id|>The answer token is:",
+        "eval_prediction": "B",
+        "eval_correct": true,
+        "eval_probs": {
+            "A": 2.240234375,
+            "B": 7.15234375,
+            "C": 1.1220703125,
+            "D": 2.978515625
+        }
+    },
+    {
+        "doc_id": "doc_0854",
+        "chunk_text": "of the Forensic Medicine Directorate. The doctor found no trauma apart from pain in the applicant\u2019s right shoulder. On 22 October 2001 a doctor who examined the applicant\u2019s X\u2011rays noted that he had a closed fracture on the right eleventh costal cartilage. On 5 November 2001 the Kad\u0131k\u00f6y public prosecutor requested authorisation from the Istanbul governor in order to be able to prosecute the police officers allegedly responsible for the applicant\u2019s ill-treatment. This request was made pursuant to Law No. 4483 on the Trial of State Employees and other Public Servants. On 19 November 2001 the applicant was examined by a doctor who found that the applicant was suffering from lumbago and recommended ten days\u2019 rest. On 11 December 2001 an Istanbul deputy police chief was appointed to carry out a preliminary investigation on behalf of the governor of the applicant\u2019s allegations of ill-treatment. On the same day the deputy police chief prepared his report and submitted it to the governor\u2019s office. It recommended that authorisation for prosecution should be declined. It appears from the report that, in the course of its preparation, the police chief had regard to an incident report of 14 October 2001, drawn up by the",
+        "chunk_text_raw": "of the Forensic Medicine Directorate. The doctor found no trauma apart from pain in the applicant\u2019s right shoulder.\nOn 22 October 2001 a doctor who examined the applicant\u2019s X\u2011rays noted that he had a closed fracture on the right eleventh costal cartilage.\nOn 5 November 2001 the Kad\u0131k\u00f6y public prosecutor requested authorisation from the Istanbul governor in order to be able to prosecute the police officers allegedly responsible for the applicant\u2019s ill-treatment. This request was made pursuant to Law No. 4483 on the Trial of State Employees and other Public Servants.\nOn 19 November 2001 the applicant was examined by a doctor who found that the applicant was suffering from lumbago and recommended ten days\u2019 rest.\nOn 11 December 2001 an Istanbul deputy police chief was appointed to carry out a preliminary investigation on behalf of the governor of the applicant\u2019s allegations of ill-treatment.\nOn the same day the deputy police chief prepared his report and submitted it to the governor\u2019s office. It recommended that authorisation for prosecution should be declined. It appears from the report that, in the course of its preparation, the police chief had regard to an incident report of 14 October 2001, drawn up by the",
+        "chunk_private_tokens": 26,
+        "chunk_private_ratio": 0.13,
+        "chunk_char_start": 4259,
+        "chunk_char_end": 5485,
+        "chunk_private_spans": [
+            {
+                "label": "DATETIME",
+                "text": "22 October 2001",
+                "text_normalized": "22 October 2001",
+                "doc_segments": [
+                    [
+                        4378,
+                        4393
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        119,
+                        134
+                    ]
+                ],
+                "chunk_text": "22 October 2001"
+            },
+            {
+                "label": "DATETIME",
+                "text": "5 November 2001",
+                "text_normalized": "5 November 2001",
+                "doc_segments": [
+                    [
+                        4518,
+                        4533
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        259,
+                        274
+                    ]
+                ],
+                "chunk_text": "5 November 2001"
+            },
+            {
+                "label": "ORG",
+                "text": "Kad\u0131k\u00f6y public prosecutor",
+                "text_normalized": "Kad\u0131k\u00f6y public prosecutor",
+                "doc_segments": [
+                    [
+                        4538,
+                        4563
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        279,
+                        304
+                    ]
+                ],
+                "chunk_text": "Kad\u0131k\u00f6y public prosecutor"
+            },
+            {
+                "label": "LOC",
+                "text": "Istanbul",
+                "text_normalized": "Istanbul",
+                "doc_segments": [
+                    [
+                        4597,
+                        4605
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        338,
+                        346
+                    ]
+                ],
+                "chunk_text": "Istanbul"
+            },
+            {
+                "label": "ORG",
+                "text": "Istanbul governor",
+                "text_normalized": "Istanbul governor",
+                "doc_segments": [
+                    [
+                        4597,
+                        4614
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        338,
+                        355
+                    ]
+                ],
+                "chunk_text": "Istanbul governor"
+            },
+            {
+                "label": "DATETIME",
+                "text": "19 November 2001",
+                "text_normalized": "19 November 2001",
+                "doc_segments": [
+                    [
+                        4834,
+                        4850
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        575,
+                        591
+                    ]
+                ],
+                "chunk_text": "19 November 2001"
+            },
+            {
+                "label": "DATETIME",
+                "text": "ten days\u2019",
+                "text_normalized": "ten days\u2019",
+                "doc_segments": [
+                    [
+                        4962,
+                        4971
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        703,
+                        712
+                    ]
+                ],
+                "chunk_text": "ten days\u2019"
+            },
+            {
+                "label": "DATETIME",
+                "text": "11 December 2001",
+                "text_normalized": "11 December 2001",
+                "doc_segments": [
+                    [
+                        4981,
+                        4997
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        722,
+                        738
+                    ]
+                ],
+                "chunk_text": "11 December 2001"
+            },
+            {
+                "label": "LOC",
+                "text": "Istanbul",
+                "text_normalized": "Istanbul",
+                "doc_segments": [
+                    [
+                        5001,
+                        5009
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        742,
+                        750
+                    ]
+                ],
+                "chunk_text": "Istanbul"
+            },
+            {
+                "label": "ORG",
+                "text": "Istanbul deputy police chief",
+                "text_normalized": "Istanbul deputy police chief",
+                "doc_segments": [
+                    [
+                        5001,
+                        5029
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        742,
+                        770
+                    ]
+                ],
+                "chunk_text": "Istanbul deputy police chief"
+            },
+            {
+                "label": "DATETIME",
+                "text": "14 October 2001",
+                "text_normalized": "14 October 2001",
+                "doc_segments": [
+                    [
+                        5453,
+                        5468
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1194,
+                        1209
+                    ]
+                ],
+                "chunk_text": "14 October 2001"
+            }
+        ],
+        "question": "Which of the following details can be confirmed from the excerpt?",
+        "options": [
+            "Istanbul",
+            "Samsun",
+            "Warrington, Cheshire",
+            "Devon"
+        ],
+        "answer_index": 0,
+        "answer_text": "Istanbul",
+        "answer_text_raw": "Istanbul",
+        "target_label": "LOC",
+        "my defence new full prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>Select the correct option based on the passage provided below. You must output one token i.e A,B,C,D that's it nothing else. Do not output any new lines.<|eot_id|><|start_header_id|>user<|end_header_id|> Passage: of the Forensic Medicine Directorate. The doctor found no trauma apart from pain in the applicant\u2019s right shoulder. On  deepenigsaw.bd petite943 a doctor who examined the applicant\u2019s X\u2011rays noted that he had a closed fracture on the right eleventh costal cartilage. On itzer kale mindful dividend\u041d\u0430 the tesis raided Military blev!? requested authorisation from the\u5434 Gad in order to be able to prosecute the police officers allegedly responsible for the applicant\u2019s ill-treatment. This request was made pursuant to Law No. 4483 on the Trial of State Employees and other Public Servants. On  Highly\u306b\u304ainya Defined Parker the applicant was examined by a doctor who found that the applicant was suffering from lumbago and recommended toaster\u0e4c\u0e2dstro rest. On  Gregg\u3002\u4e0d\">{{RequestParam Shir an repayment astounding signings ApplicationController was appointed to carry out a preliminary investigation on behalf of the governor of the applicant\u2019s allegations of ill-treatment. On the same day the deputy police chief prepared his report and submitted it to the governor\u2019s office. It recommended that authorisation for prosecution should be declined. It appears from the report that, in the course of its preparation, the police chief had regard to an incident report of  Bj antim \u0447\u0443\u0432 crap(\"_, drawn up by the Question: Which of the following details can be confirmed from the excerpt?, Options: A) Istanbul, B) Samsun, C) Warrington, Cheshire, D) Devon <|eot_id|><|start_header_id|>assistant<|end_header_id|>The answer token is:",
+        "eval_prediction": "A",
+        "eval_correct": true,
+        "eval_probs": {
+            "A": 4.57421875,
+            "B": 1.6015625,
+            "C": -0.0005173683166503906,
+            "D": 2.09375
+        }
+    },
+    {
+        "doc_id": "doc_0583",
+        "chunk_text": "applicant did not meet the requirements as principal heir. On 7 March 1994 the District Court transferred the file to the public notary for supplementary investigations. On 27 April 1994 additional expert opinions were submitted. On 13 May 1994 the applicant commented thereupon. From September to November 1994 new forest pest control measures were carried out in the forest belonging to the farm. Again an estate curator was appointed and the succession proceedings were suspended. On 17 November 1994 the District Court ordered the public notary to submit his final submissions. On 2 February 1995 the District Court, having heard additional experts, again dismissed the applicant's request and appointed M. as principal heir. The applicant appealed. On 12 July 1995 the Regional Court quashed the decision and remitted the case to the District Court. On 10 August 1995 the file was transmitted to the notary public. On 5 February 1996 the District Court held a further hearing. Thereafter, it obtained further expert reports and the applicant commented repeatedly on these reports and repeatedly requested further opinions. On 12 August 1997 the applicant submitted a private expert opinion and requested to discuss it at an oral hearing. The court-appointed expert commented",
+        "chunk_text_raw": "applicant did not meet the requirements as principal heir.\nOn 7 March 1994 the District Court transferred the file to the public notary for supplementary investigations. On 27 April 1994 additional expert opinions were submitted. On 13 May 1994 the applicant commented thereupon.\nFrom September to November 1994 new forest pest control measures were carried out in the forest belonging to the farm. Again an estate curator was appointed and the succession proceedings were suspended. On 17 November 1994 the District Court ordered the public notary to submit his final submissions.\nOn 2 February 1995 the District Court, having heard additional experts, again dismissed the applicant's request and appointed M. as principal heir. The applicant appealed.\nOn 12 July 1995 the Regional Court quashed the decision and remitted the case to the District Court. On 10 August 1995 the file was transmitted to the notary public.\nOn 5 February 1996 the District Court held a further hearing. Thereafter, it obtained further expert reports and the applicant commented repeatedly on these reports and repeatedly requested further opinions.\nOn 12 August 1997 the applicant submitted a private expert opinion and requested to discuss it at an oral hearing. The court-appointed expert commented",
+        "chunk_private_tokens": 32,
+        "chunk_private_ratio": 0.16,
+        "chunk_char_start": 5234,
+        "chunk_char_end": 6513,
+        "chunk_private_spans": [
+            {
+                "label": "DATETIME",
+                "text": "7 March 1994",
+                "text_normalized": "7 March 1994",
+                "doc_segments": [
+                    [
+                        5296,
+                        5308
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        62,
+                        74
+                    ]
+                ],
+                "chunk_text": "7 March 1994"
+            },
+            {
+                "label": "DATETIME",
+                "text": "27 April 1994",
+                "text_normalized": "27 April 1994",
+                "doc_segments": [
+                    [
+                        5407,
+                        5420
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        173,
+                        186
+                    ]
+                ],
+                "chunk_text": "27 April 1994"
+            },
+            {
+                "label": "DATETIME",
+                "text": "13 May 1994",
+                "text_normalized": "13 May 1994",
+                "doc_segments": [
+                    [
+                        5467,
+                        5478
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        233,
+                        244
+                    ]
+                ],
+                "chunk_text": "13 May 1994"
+            },
+            {
+                "label": "DATETIME",
+                "text": "September to November 1994",
+                "text_normalized": "September to November 1994",
+                "doc_segments": [
+                    [
+                        5519,
+                        5545
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        285,
+                        311
+                    ]
+                ],
+                "chunk_text": "September to November 1994"
+            },
+            {
+                "label": "DATETIME",
+                "text": "17 November 1994",
+                "text_normalized": "17 November 1994",
+                "doc_segments": [
+                    [
+                        5721,
+                        5737
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        487,
+                        503
+                    ]
+                ],
+                "chunk_text": "17 November 1994"
+            },
+            {
+                "label": "DATETIME",
+                "text": "2 February 1995",
+                "text_normalized": "2 February 1995",
+                "doc_segments": [
+                    [
+                        5819,
+                        5834
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        585,
+                        600
+                    ]
+                ],
+                "chunk_text": "2 February 1995"
+            },
+            {
+                "label": "PERSON",
+                "text": "M.",
+                "text_normalized": "M.",
+                "doc_segments": [
+                    [
+                        5942,
+                        5944
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        708,
+                        710
+                    ]
+                ],
+                "chunk_text": "M."
+            },
+            {
+                "label": "DATETIME",
+                "text": "12 July 1995",
+                "text_normalized": "12 July 1995",
+                "doc_segments": [
+                    [
+                        5991,
+                        6003
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        757,
+                        769
+                    ]
+                ],
+                "chunk_text": "12 July 1995"
+            },
+            {
+                "label": "DATETIME",
+                "text": "10 August 1995",
+                "text_normalized": "10 August 1995",
+                "doc_segments": [
+                    [
+                        6092,
+                        6106
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        858,
+                        872
+                    ]
+                ],
+                "chunk_text": "10 August 1995"
+            },
+            {
+                "label": "DATETIME",
+                "text": "5 February 1996",
+                "text_normalized": "5 February 1996",
+                "doc_segments": [
+                    [
+                        6157,
+                        6172
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        923,
+                        938
+                    ]
+                ],
+                "chunk_text": "5 February 1996"
+            },
+            {
+                "label": "DATETIME",
+                "text": "12 August 1997",
+                "text_normalized": "12 August 1997",
+                "doc_segments": [
+                    [
+                        6365,
+                        6379
+                    ]
+                ],
+                "chunk_segments": [
+                    [
+                        1131,
+                        1145
+                    ]
+                ],
+                "chunk_text": "12 August 1997"
+            }
+        ],
+        "question": "Which specific detail is explicitly supported by the excerpt?",
+        "options": [
+            "14 January 2003",
+            "17 November 1994",
+            "20 March 1990",
+            "16 April 1991"
+        ],
+        "answer_index": 1,
+        "answer_text": "17 November 1994",
+        "answer_text_raw": "17 November 1994",
+        "target_label": "DATETIME",
+        "my defence new full prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>Select the correct option based on the passage provided below. You must output one token i.e A,B,C,D that's it nothing else. Do not output any new lines.<|eot_id|><|start_header_id|>user<|end_header_id|> Passage: applicant did not meet the requirements as principal heir. On.invalid \u0935\u0939\u8fd9\u4e9b Bears accesses the District Court transferred the file to the public notary for supplementary investigations. On  recv_decode towns\u89c9\u5f97hiro additional expert opinions were submitted. On gewater JsonSerializer likewise Alone.SerializeObject the applicant commented thereupon. FromTreeNode Charger borrowing\u77e5\u9053 disciplines Bombay new forest pest control measures were carried out in the forest belonging to the farm. Again an estate curator was appointed and the succession proceedings were suspended. On bows\ufffddal\u57ce Recover the District Court ordered the public notary to submit his final submissions. On BitmapNotFoundException bullish.fromRGBO(of the District Court, having heard additional experts, again dismissed the applicant's request and appointed_within influx as principal heir. The applicant appealed. On  Akron Incredible roulette india carta the Regional Court quashed the decision and remitted the case to the District Court. On  oscillator Favorite proposalamphetamine.PL the file was transmitted to the notary public. On  authoritative Turn outrageousRequest \u0437\u0431 the District Court held a further hearing. Thereafter, it obtained further expert reports and the applicant commented repeatedly on these reports and repeatedly requested further opinions. On container useParams countertIntroduction Churchill the applicant submitted a private expert opinion and requested to discuss it at an oral hearing. The court-appointed expert commented Question: Which specific detail is explicitly supported by the excerpt?, Options: A) 14 January 2003, B) 17 November 1994, C) 20 March 1990, D) 16 April 1991 <|eot_id|><|start_header_id|>assistant<|end_header_id|>The answer token is:",
+        "eval_prediction": "B",
+        "eval_correct": true,
+        "eval_probs": {
+            "A": 2.103515625,
+            "B": 6.53125,
+            "C": 1.1572265625,
+            "D": 3.62890625
+        }
+    }
+]

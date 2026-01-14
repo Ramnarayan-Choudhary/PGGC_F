@@ -2,25 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pkl
 
-# Environment Variables
+# Secrets (STILL BLOCKED)
 .env
+hf_token*
 
-# Data and Results (Private)
-data/
-results_*.json
-sanitized_*.json
-*.jsonl
-
-# Logs
+# Logs (You probably don't want these, they are huge and useless later)
 logs/
 *.out
 *.err
-*.log
-
-# VS Code / IDE
-.vscode/
-.idea/
 
 # OS
 .DS_Store
