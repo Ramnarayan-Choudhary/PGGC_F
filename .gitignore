@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# Data and Results (Private)
+data/
+results_*.json
+sanitized_*.json
+*.jsonl
+
+# Logs
+logs/
+*.out
+*.err
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
